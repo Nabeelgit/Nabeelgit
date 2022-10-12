@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nabeelgit
-- 👀 I’m interested in Coding
+- 👀 I’m interested in Search engines
 - 🌱 I’m currently learning nothing yet 
 - 💞️ I’m looking to collaborate on nothing yet
 - 📫 How to reach me nabeel30march@gmail.com
