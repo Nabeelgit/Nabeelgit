@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nabeelgit
-- 👀 I’m interested in
-- 🌱 I’m currently learning game development
+- 👀 I’m interested in web development
+- 🌱 I’m currently nothing
 - 💞️ I’m looking to collaborate on nothing yet
 - 📫 How to reach me
 
