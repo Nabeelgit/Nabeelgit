@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @Nabeelgit
+- 👋 Hi, I’m Nabeel
 - 👀 I’m interested in web development
-- 🌱 I’m currently nothing
-- 💞️ I’m looking to collaborate on nothing yet
-- 📫 How to reach me
 
 <!---
 Nabeelgit/Nabeelgit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
