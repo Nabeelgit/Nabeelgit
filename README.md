@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nabeel
-- 👀 I’m interested building
+- 👀 I’m interested in building
 
 <!---
 Nabeelgit/Nabeelgit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
